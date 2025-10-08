@@ -84,4 +84,4 @@ Practice Data Analysis/
 
 For questions, suggestions, or collaboration, please contact the project maintainer.
 
-email :- mailto:dhruvalbhinsara460@gmail.com
+email :- dhruvalbhinsara460@gmail.com
