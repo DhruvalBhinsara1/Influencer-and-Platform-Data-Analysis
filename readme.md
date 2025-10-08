@@ -15,10 +15,13 @@ This project explores influencer marketing data across multiple platforms, focus
 ## Dataset Summary
 
 The dataset includes:
+
 - Engagement metrics (likes, comments, shares)
 - Financial data (revenue generated, ad spend)
 - Follower counts and demographics
 - Platform, region, brand, and category information
+
+IMPORTANT DISCLAIMER: This repository uses a completely synthetic dataset created for demonstration and educational purposes only. Any names, brands, follower counts, metrics, events, or other data that may resemble real individuals, organizations, or happenings are purely coincidental and not deliberate. Do not use this data for production decisions or to represent real people or companies.
 
 ## Analysis Stages & Deliverables
 
