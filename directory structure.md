@@ -14,7 +14,8 @@ This repository is organized for clarity and reproducibility. Below is the curre
 │   ├── 01_data_cleaning.ipynb              # Data cleaning & preprocessing
 │   ├── 02_eda_visualization.ipynb          # Exploratory data analysis & visualization
 │   ├── 03_trend_analysis.ipynb             # Trend analysis & advanced insights
-│   └── results/                            # All generated plots and charts
+│   
+results/                            # All generated plots and chart
 │       ├── ad_spend_efficiency_monthly_trend.png
 │       ├── anomalies_plot.jpg
 │       ├── category_platform_performance.png
