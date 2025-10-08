@@ -1,0 +1,81 @@
+🧹 Stage 1: Data Cleaning
+
+Goal: Make the dataset consistent, readable, and analysis-ready.
+Tasks:
+
+Handle NaN and blanks using imputation or removal.
+
+Normalize date formats to YYYY-MM-DD.
+
+Convert currencies ($, ₹, USD) to unified numeric format.
+
+Convert follower_count (“10k”, “1.2M”) → integer.
+
+Standardize text columns: sponsorship, region, brand_name.
+
+Remove duplicates using post_id.
+
+Handle extreme outliers (e.g., unrealistic revenue values).
+
+Deliverable: cleaned_dataset.csv
+
+📊 Stage 2: Exploratory Data Analysis (EDA)
+
+Goal: Understand dataset structure and detect patterns.
+Tasks:
+
+Descriptive stats for key numeric columns.
+
+Distribution plots for likes, comments, shares, engagement rate, revenue.
+
+Correlation heatmap between engagement metrics and revenue/ad_spent.
+
+Category & platform performance analysis.
+
+Identify anomalies (e.g., high revenue, low engagement).
+
+Deliverables:
+
+Notebook: 02_eda_visualization.ipynb
+
+Charts: histograms, scatter plots, correlation matrix
+
+📈 Stage 3: Visualization & Trend Analysis
+
+Goal: Derive and visualize time-based and category-based trends.
+Tasks:
+
+Monthly revenue trends across platforms.
+
+Engagement vs Revenue scatter by region.
+
+ROI (Revenue / Ad Spent) by platform.
+
+Campaign duration vs engagement impact.
+
+Top-performing brands or categories by revenue.
+
+Deliverables:
+
+Notebook: 03_trend_analysis.ipynb
+
+Dashboard or visual PDF: influencer_trends_report.pdf
+
+📑 Stage 4: Final Report
+
+Goal: Summarize key findings clearly and visually.
+
+Include:
+
+Project overview & goals
+
+Cleaning steps summary
+
+Key metrics (top platforms, average ROI, etc.)
+
+Visual trends & insights
+
+Business or strategy recommendations
+
+Deliverable:
+reports/influencer_trends_report.pdf
